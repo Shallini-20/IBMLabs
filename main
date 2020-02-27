@@ -1,0 +1,8 @@
+PI = 3.14
+GRAVITY = 9.8
+
+
+import shallu
+
+print(shallu.PI)
+print(shallu.GRAVITY)
